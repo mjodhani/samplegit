@@ -10,6 +10,7 @@ namespace SampleGitProject
     {
         static void Main(string[] args)
         {
+            // some comment
         }
     }
 }
